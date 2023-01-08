@@ -5,7 +5,7 @@ for(i=0;i<=num;i++){
     count++;
   }
 }
-  if(count<2){
+  if(count===2){
     console.log("prime")
   }else{
     console.log("not prime")
